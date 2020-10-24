@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```javascript
+const aboutMe = {
+   pronouns: "She" | "Her",
+   code: [Java, JavaScript, HTML5, CSS3, Python, C, C++],
+   technologies: {
+      frontEnd: ["React"],
+      backEnd: ["Spring Boot", "Flask", "Node"],
+      databases: ["MongoDB", "mySQL", "Redis"],
+   },
+   agileDevelopment: ["Scrum", "Jira", "Trello"],
+   others: ["Git", "Cloudflare Worker", "Postman"],
+   currentOccupation: ["Master Student majoring in Computer Science, actively seeking SDE intern positions"],
+};
+```
