@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "She" | "Her",
-   code: [Java, JavaScript, HTML5, CSS3, Python, C, C++],
+   code: [Python, Java, JavaScript, HTML5, CSS3, C, C++],
    technologies: {
-      frontEnd: ["React"],
-      backEnd: ["Spring Boot", "Flask", "Node"],
+      frontEnd: ["React", "Angular"],
+      backEnd: ["Spring Boot", "Flask", "NodeJS"],
       databases: ["MongoDB", "mySQL", "Redis"],
    },
    agileDevelopment: ["Scrum", "Jira", "Trello"],
-   others: ["Git", "Cloudflare Worker", "Postman"],
-   currentOccupation: ["Master Student majoring in Computer Science, actively seeking SDE intern positions"],
+   others: ["Git", "Postman"],
+   currentOccupation: ["Master's Student majoring in Computer Science, actively seeking SDE full-time positions"],
 };
 ```
