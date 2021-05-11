@@ -22,8 +22,10 @@ const aboutMe = {
    code: [Python, Java, JavaScript, HTML5, CSS3, C, C++],
    technologies: {
       frontEnd: ["React", "Angular"],
-      backEnd: ["Spring Boot", "Flask", "NodeJS"],
-      databases: ["MongoDB", "mySQL", "Redis"],
+      backEnd: ["Flask", "Express", "Spring Boot"],
+      mobile: ["Android(Java)"],
+      databases: ["MongoDB", "SQL", "Redis"],
+      cloud: ["GCP", "Azure", "AWS"]
    },
    agileDevelopment: ["Scrum", "Jira", "Trello"],
    others: ["Git", "Postman"],
